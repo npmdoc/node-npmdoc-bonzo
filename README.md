@@ -1,4 +1,7 @@
-# api documentation for  [bonzo (v2.0.0)](https://github.com/ded/bonzo)  [![npm package](https://img.shields.io/npm/v/npmdoc-bonzo.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-bonzo) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-bonzo.svg)](https://travis-ci.org/npmdoc/node-npmdoc-bonzo)
+# npmdoc-bonzo
+
+#### basic api documentation for  [bonzo (v2.0.0)](https://github.com/ded/bonzo)  [![npm package](https://img.shields.io/npm/v/npmdoc-bonzo.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-bonzo) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-bonzo.svg)](https://travis-ci.org/npmdoc/node-npmdoc-bonzo)
+
 #### Library agnostic, extensible DOM utility
 
 [![NPM](https://nodei.co/npm/bonzo.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/bonzo)
@@ -72,7 +75,8 @@
         "type": "git",
         "url": "git+https://github.com/ded/bonzo.git"
     },
-    "version": "2.0.0"
+    "version": "2.0.0",
+    "bin": {}
 }
 ```
 
